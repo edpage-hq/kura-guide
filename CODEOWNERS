@@ -1,0 +1,14 @@
+# Syntax: <path pattern>   <@user-or-@org/team>
+# The last matching pattern wins, so keep broad rules first, specific ones after.
+
+# Default owners for everything not matched below
+*                       @edpage-hq/core-devs
+
+# Content
+/src/                   @edpage-hq/core-devs
+
+# Site config & theme
+/.vitepress/            @edpage-hq/core-devs
+
+# CI / infra
+/.github/               @edpage-hq/core-devs

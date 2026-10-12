@@ -1,0 +1,7 @@
+node_modules
+build
+cache
+.env
+
+# Local pnpm 10+ build-approval nudge — not project config, breaks CI's pinned pnpm 9
+pnpm-workspace.yaml

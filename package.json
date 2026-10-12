@@ -1,0 +1,47 @@
+{
+  "name": "guide-starter",
+  "version": "1.0.0",
+  "description": "edpage-hq documentation site starter (VitePress).",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "docs:deploy": "pnpm docs:build && gh-pages -d .vitepress/build",
+    "build": "node scripts/ci-build.mjs",
+    "lint": "eslint . && prettier --check . && markdownlint-cli2",
+    "lint:md": "markdownlint-cli2",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpage-hq/guide-starter.git"
+  },
+  "author": "edpage-hq",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/edpage-hq/guide-starter/issues"
+  },
+  "homepage": "https://github.com/edpage-hq/guide-starter#readme",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "dependencies": {
+    "@viteplus/versions": "^2.0.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "dotenv": "^17.4.2",
+    "eslint": "^10.7.0",
+    "eslint-config-prettier": "^10.1.8",
+    "gh-pages": "^6.3.0",
+    "globals": "^17.7.0",
+    "markdownlint-cli2": "^0.23.1",
+    "prettier": "^3.9.6",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.65.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.40"
+  }
+}

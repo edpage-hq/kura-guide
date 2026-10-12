@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+jobs:
+  lint:
+    uses: edpage-hq/.github/.github/workflows/node-lint-test.yml@master
+
+  build:
+    uses: edpage-hq/.github/.github/workflows/docs-build.yml@master
