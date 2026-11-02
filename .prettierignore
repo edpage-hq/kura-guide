@@ -1,0 +1,4 @@
+.vitepress/cache
+.vitepress/build
+pnpm-lock.yaml
+.claude
