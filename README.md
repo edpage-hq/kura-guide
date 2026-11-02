@@ -26,7 +26,7 @@ cp .env.example .env
 pnpm docs:dev
 ```
 
-The site is served locally at `http://localhost:5173/docs/` (French root at `/docs/`, English at `/docs/en/`).
+The site is served locally at `http://localhost:5173/kura-guide/` (French root at `/kura-guide/`, English at `/kura-guide/en/`).
 
 ## Content structure
 
@@ -74,10 +74,10 @@ Archived versions are served under `/<version>/` (and `/en/<version>/` for the E
 
 ## Environment variables
 
-| Variable        | Description                                            | Example                   |
-| --------------- | ------------------------------------------------------ | ------------------------- |
-| `VITE_BASE`     | Public base path the site is served from               | `/docs/`                  |
-| `VITE_SITE_URL` | Canonical site URL, used in Open Graph / SEO meta tags | `https://docs.edpage.net` |
+| Variable        | Description                                            | Example                                   |
+| --------------- | ------------------------------------------------------ | ----------------------------------------- |
+| `VITE_BASE`     | Public base path the site is served from               | `/kura-guide/`                            |
+| `VITE_SITE_URL` | Canonical site URL, used in Open Graph / SEO meta tags | `https://edpage-hq.github.io/kura-guide/` |
 
 Set both to the real deployment values before publishing.
 

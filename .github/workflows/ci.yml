@@ -10,4 +10,4 @@ jobs:
     uses: edpage-hq/.github/.github/workflows/node-lint-test.yml@master
 
   build:
-    uses: edpage-hq/.github/.github/workflows/docs-build.yml@master
+    uses: edpage-hq/.github/.github/workflows/guide-build.yml@master
