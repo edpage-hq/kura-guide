@@ -3,26 +3,38 @@
 layout: home
 
 hero:
-  name: Docs
-  text: Documentation
-  tagline: Starter de documentation.
+  name: Kura
+  text: Le socle administratif et financier de NextBoxx
+  tagline: Catalogue, cohortes, candidatures, inscriptions, facturation, certification et documents — un seul système de vérité.
   image:
     light: /images/home.svg
     dark: /images/home-reverse.svg
-    alt: Docs
+    alt: Kura
   actions:
     - theme: brand
-      text: Commencer →
+      text: Découvrir Kura →
+      link: /guide/overview
+    - theme: alt
+      text: Démarrer →
       link: /guide/getting-started
 
 features:
+  - icon: 🎓
+    title: Du dépôt de candidature au certificat
+    details: Quatre étapes d'admission, inscriptions, présence, résultats et certification, sans double saisie entre le site, Kura et Sève.
+  - icon: 🧾
+    title: Facturation 30/40/30
+    details: Échéancier calé sur le calendrier de la cohorte, financement partagé, relances automatiques et gestion des impayés jusqu'à la suspension.
+  - icon: 🔐
+    title: Un compte, plusieurs rôles
+    details: Candidat, Apprenant, Formateur, Coordinateur, Financeur, Direction… Chaque rôle est validé par un acteur désigné et journalisé.
+  - icon: 🔗
+    title: Intégré à Sève
+    details: Kura est le fournisseur d'identité OAuth2 de Sève et synchronise comptes, inscriptions, présence et notes avec Moodle.
+  - icon: 📄
+    title: Documents générés
+    details: Conventions, livrets d'accueil, factures, avoirs, certificats, attestations et procès-verbaux, générés et scellés côté serveur.
   - icon: 🌍
-    title: Multilingue
-    details: Contenu français (racine) et anglais (/en/) prêts à l'emploi, avec recherche traduite dans chaque langue.
-  - icon: 🔎
-    title: Recherche locale
-    details: Recherche plein texte intégrée, sans service externe à configurer.
-  - icon: 🚀
-    title: CI prête à l'emploi
-    details: Lint et build vérifiés automatiquement sur chaque pull request via les workflows réutilisables edpage-hq.
+    title: Français et anglais
+    details: Interface et documents disponibles dans les deux langues, avec une recherche locale intégrée à ce guide.
 ---

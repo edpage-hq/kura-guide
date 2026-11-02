@@ -3,11 +3,12 @@ import type { DefaultTheme, LocaleInterface, NavType, SidebarItemType } from '@v
 export const fr: LocaleInterface = {
   lang: 'fr',
   label: 'Français',
-  description: 'Starter de documentation.',
+  description:
+    'Guide de Kura, la plateforme administrative et financière de NextBoxx : catalogue, cohortes, candidatures, facturation, certification et documents.',
 
   themeConfig: {
     nav: nav(),
-    siteTitle: 'Documentation',
+    siteTitle: 'Guide Kura',
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
@@ -37,14 +38,13 @@ export const fr: LocaleInterface = {
     langMenuLabel: 'Changer de langue',
     returnToTopLabel: 'Retour au début de la page',
     sidebarMenuLabel: 'Menu',
-    darkModeSwitchLabel: 'Passer an thème sombre',
+    darkModeSwitchLabel: 'Passer au thème sombre',
     lightModeSwitchTitle: 'Passer au thème clair',
     darkModeSwitchTitle: 'Apparence',
 
     notFound: {
-      title: 'PAGE NON TROUVEE',
-      quote:
-        'Mais si vous ne changez pas de direction et si vous continuez à regarder, vous risquez de vous retrouver là où vous allez.',
+      title: 'PAGE NON TROUVÉE',
+      quote: "Cette page n'existe pas, ou elle a été déplacée.",
       linkLabel: "aller à l'accueil",
       linkText: "Me ramener à l'accueil",
       code: '404',
@@ -56,22 +56,28 @@ function nav(): NavType {
   return {
     root: [
       {
-        text: 'Lire la documentation',
-        link: '/guide/getting-started',
+        text: 'Lire le guide',
+        link: '/guide/overview',
         activeMatch: '/guide/',
       },
       {
         text: 'Support',
         items: [
           {
+            text: 'Documentation de référence',
+            link: 'https://github.com/edpage-hq/kura-docs',
+            target: '_blank',
+            rel: 'noopener',
+          },
+          {
             text: 'Notes de version',
-            link: 'https://github.com/edpage-hq/guide-starter/releases',
+            link: 'https://github.com/edpage-hq/kura-guide/releases',
             target: '_blank',
             rel: 'noopener',
           },
           {
             text: 'Signaler un problème',
-            link: 'https://github.com/edpage-hq/guide-starter/issues',
+            link: 'https://github.com/edpage-hq/kura-guide/issues',
             target: '_blank',
             rel: 'noopener',
           },
@@ -85,14 +91,45 @@ function nav(): NavType {
 function sidebarGuide(): SidebarItemType[] {
   return [
     {
-      text: 'Introduction',
+      text: 'Découvrir',
       collapsed: false,
-      items: [{ text: 'Pour commencer', link: 'getting-started' }],
+      items: [
+        { text: 'Présentation', link: 'overview' },
+        { text: 'Démarrage', link: 'getting-started' },
+      ],
+    },
+    {
+      text: 'Comprendre',
+      collapsed: false,
+      items: [
+        { text: 'Architecture', link: 'architecture' },
+        { text: 'Comptes et rôles', link: 'roles' },
+        { text: 'Parcours apprenant', link: 'learner-journey' },
+        { text: 'Modules du socle', link: 'core-modules' },
+        { text: 'Activités élargies', link: 'extended-modules' },
+      ],
+    },
+    {
+      text: 'Exploiter',
+      collapsed: false,
+      items: [
+        { text: 'Facturation', link: 'billing' },
+        { text: 'Documents générés', link: 'documents' },
+        { text: 'Intégrations', link: 'integrations' },
+      ],
+    },
+    {
+      text: 'Contribuer',
+      collapsed: false,
+      items: [
+        { text: 'Développement', link: 'development' },
+        { text: 'Déploiement', link: 'deployment' },
+      ],
     },
     {
       text: 'Autres',
       collapsed: false,
-      items: [{ text: 'A propos', link: 'about' }],
+      items: [{ text: 'À propos', link: 'about' }],
     },
   ]
 }
