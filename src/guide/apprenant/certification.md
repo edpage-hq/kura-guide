@@ -30,7 +30,7 @@ Il porte une **mention** sur l'échelle française :
 
 Ces seuils sont ceux par défaut ; l'Administrateur peut les régler.
 
-Vous recevez en même temps un **relevé de compétences**, qui détaille les notes par bloc et les repêchages, le projet tutoré, le stage et son entreprise, et la moyenne. Il n'a pas de valeur seul. Certificat (`CERT-NB-AAAA-XXX`) et relevé (`REL-NB-AAAA-XXX`) sont dans **Mon inscription** et **Mes documents**.
+Vous recevez en même temps un **relevé de compétences**, qui détaille les notes par bloc et les rattrapages, le projet tutoré, le stage et son entreprise, et la moyenne. Il n'a pas de valeur seul. Certificat (`CERT-NB-AAAA-XXX`) et relevé (`REL-NB-AAAA-XXX`) sont dans **Mon inscription** et **Mes documents**.
 
 ## Devenir Canopé
 

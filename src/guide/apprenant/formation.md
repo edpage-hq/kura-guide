@@ -35,11 +35,11 @@ La formation se découpe en **blocs de compétences**, chacun noté sur 20 dans 
 
 Votre **moyenne** est pondérée par la durée de chaque bloc, en semaines. Elle est recalculée à chaque lecture. Si un bloc a été tenté plusieurs fois, la note retenue est celle de la dernière tentative notée.
 
-### Le repêchage
+### Le rattrapage
 
-Pour un bloc sous 10/20, un Formateur Principal de votre cohorte ou le Coordinateur peut ouvrir un **repêchage** :
+Pour un bloc sous 10/20, un Formateur Principal de votre cohorte ou le Coordinateur peut ouvrir un **rattrapage** :
 
-- au plus **2 repêchages** par bloc ;
+- au plus **2 rattrapages** par bloc (3 tentatives en tout) ;
 - **15 jours au moins** après votre dernière note sur ce bloc ;
 - il se remplit avec la première note donnée dans Sève après son ouverture, et peut être annulé tant qu'il n'est pas noté.
 
