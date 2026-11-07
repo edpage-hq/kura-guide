@@ -1,7 +1,7 @@
 {
-  "name": "kura-guide",
+  "name": "guide-starter",
   "version": "1.0.0",
-  "description": "Kura documentation site (VitePress): the administrative and financial platform of NextBoxx.",
+  "description": "edpage-hq documentation site starter (VitePress).",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edpage-hq/kura-guide.git"
+    "url": "git+https://github.com/edpage-hq/guide-starter.git"
   },
-  "author": "edPage HQ",
+  "author": "edpage-hq",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/edpage-hq/kura-guide/issues"
+    "url": "https://github.com/edpage-hq/guide-starter/issues"
   },
-  "homepage": "https://github.com/edpage-hq/kura-guide#readme",
+  "homepage": "https://github.com/edpage-hq/guide-starter#readme",
   "engines": {
     "node": ">=20",
     "pnpm": ">=9"

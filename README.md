@@ -1,16 +1,14 @@
-# kura-guide
+# guide-starter
 
 ## Description
 
-Documentation site for **Kura**, the administrative and financial platform of NextBoxx, edPage group's training organisation. Built with [VitePress](https://vitepress.dev), in French (root) and English (`/en/`), with local search.
-
-The guide covers the platform's purpose, architecture, accounts and roles, the learner journey, business modules, billing, generated documents, integrations, development conventions and deployment.
+Starter repo for edpage-hq documentation sites. Provides a [VitePress](https://vitepress.dev) site with French/English content, local search, multi-version docs, a custom theme and CI already wired up — clone it to start a new docs project instead of scaffolding from scratch.
 
 ## Tech stack
 
 - [VitePress](https://vitepress.dev) (Vue-powered static site generator)
 - [@viteplus/versions](https://github.com/viteplus/versions) for multi-version documentation
-- TypeScript for site config and theme
+- TypeScript for site config/theme
 - pnpm
 
 ## Prerequisites
@@ -27,40 +25,6 @@ pnpm docs:dev
 ```
 
 The site is served locally at `http://localhost:5173/kura-guide/` (French root at `/kura-guide/`, English at `/kura-guide/en/`).
-
-## Content structure
-
-```text
-src/
-  index.md              French homepage
-  guide/                French content
-    overview.md         Presentation, scope, key figures
-    getting-started.md  Local install and day-to-day commands
-    architecture.md     Stack, folder structure, data model
-    roles.md            Accounts, roles and gates
-    learner-journey.md  From candidature to Parcours Canopé
-    core-modules.md     Core business rules (modules 1–18, 29, 32)
-    extended-modules.md Events, B2B, incubation, partnerships
-    billing.md          30/40/30 schedule, reminders, payouts
-    documents.md        Generated documents and signatures
-    integrations.md     NextBoxx site API, Sève, WhatsApp, PayGate
-    development.md      Conventions, tests, quality, pitfalls
-    deployment.md       cPanel runbook
-    about.md            About this guide
-  en/                   English mirror (index.md + guide/)
-.vitepress/
-  config/               Site config and per-locale nav/sidebar/search
-  theme/                Theme extension and Kura colours
-```
-
-The sidebar in `.vitepress/config/locales/fr.ts` and `en.ts` must list every page in both languages; `pnpm docs:build` fails on a broken internal link.
-
-## Sources of truth
-
-- `edpage-hq/kura-docs` — business rules, architecture, API contract and ADRs.
-- `edpage-hq/kura-web` — the Laravel application.
-
-Update this guide in the same pull request when a rule, command or procedure it describes changes.
 
 ## Versioning the docs
 
@@ -79,23 +43,25 @@ Archived versions are served under `/<version>/` (and `/en/<version>/` for the E
 | `VITE_BASE`     | Public base path the site is served from               | `/kura-guide/`                            |
 | `VITE_SITE_URL` | Canonical site URL, used in Open Graph / SEO meta tags | `https://edpage-hq.github.io/kura-guide/` |
 
-Set both to the real deployment values before publishing.
+## Running tests
 
-## Checks
-
-There is no separate test suite — the production build itself is the check: it fails on broken internal links or missing referenced assets.
+There's no separate test suite — the production build itself is the check: it fails on broken internal links or missing referenced assets.
 
 ```bash
 pnpm lint         # ESLint + Prettier + markdownlint
 pnpm docs:build   # fails on broken links/markdown
-pnpm format       # rewrites files with Prettier
 ```
 
-## Deployment
+## Environments
 
-`pnpm docs:deploy` builds the site and publishes `.vitepress/build` to the `gh-pages` branch via [gh-pages](https://github.com/tschaub/gh-pages). Adjust `VITE_BASE` and `VITE_SITE_URL` to match how the site is actually served before deploying.
+| Env        | URL                                                         | Deployment |
+| ---------- | ----------------------------------------------------------- | ---------- |
+| Staging    | _fill in once this project's staging environment exists_    |            |
+| Production | _fill in once this project's production environment exists_ |            |
+
+`pnpm docs:deploy` builds the site and publishes `.vitepress/build` to the `gh-pages` branch via [gh-pages](https://github.com/tschaub/gh-pages). Adjust `VITE_BASE` to match how the site is actually served (root domain vs. GitHub Pages project path) before deploying.
 
 ## Contacts
 
-- Tech lead: edPage HQ
-- Product owner: NextBoxx (edPage group)
+- Tech lead: _fill in per project_
+- Product owner: _fill in per project_

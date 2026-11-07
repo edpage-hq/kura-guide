@@ -16,7 +16,7 @@ export default defineVersionedConfig({
   // archive/README.md, which document the repo, not doc pages.
   srcExclude: ['*.md', 'archive/README.md'],
 
-  title: 'Kura',
+  title: 'Docs',
 
   head: [
     [
@@ -28,11 +28,11 @@ export default defineVersionedConfig({
         href: `${base}images/icon.svg`,
       },
     ],
-    ['meta', { name: 'theme-color', content: '#1A4B35' }],
+    ['meta', { name: 'theme-color', content: '#0071BC' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'fr' }],
-    ['meta', { property: 'og:title', content: 'Kura | Guide de la plateforme' }],
-    ['meta', { property: 'og:site_name', content: 'Kura' }],
+    ['meta', { property: 'og:title', content: 'Docs | Documentation' }],
+    ['meta', { property: 'og:site_name', content: 'Docs' }],
     ['meta', { property: 'og:url', content: siteUrl }],
   ],
 
@@ -41,7 +41,7 @@ export default defineVersionedConfig({
     logo: {
       light: '/images/icon.svg',
       dark: '/images/icon-reverse.svg',
-      alt: 'Kura',
+      alt: 'Docs',
       width: 48,
       height: 48,
     },
