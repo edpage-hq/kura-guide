@@ -44,3 +44,4 @@ Chaque rôle a sa section, dans le menu de gauche. Commencez par [Premiers pas](
 - **Vous enseignez, accompagnez ou instruisez les candidatures** : [L'équipe pédagogique](./equipe/formateur).
 - **Vous coordonnez la formation** (catalogue, cohortes, facturation, certification) : [Coordinateur pédagogique](./coordinateur/catalogue).
 - **Vous participez à un événement, financez, incubez ou nouez un partenariat** : [Activités élargies](./activites/evenements).
+- **Vous pilotez ou administrez la plateforme** : [Direction et reporting](./direction/pilotage) et [Administrateur](./administrateur/comptes-et-roles).
