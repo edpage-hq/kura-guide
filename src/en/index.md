@@ -1,28 +1,19 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: Docs
-  text: Documentation
-  tagline: Documentation starter.
+  name: Kura Guide
+  text: The administrative and financial platform of NextBoxx
+  tagline: 'Applications, enrolments, agreements, payments, certificates: what each role does in Kura, step by step.'
   image:
     light: /images/home.svg
     dark: /images/home-reverse.svg
-    alt: Docs
+    alt: Kura Guide
   actions:
     - theme: brand
-      text: Getting started →
-      link: /en/guide/getting-started
-
-features:
-  - icon: 🌍
-    title: Multilingual
-    details: French (root) and English (/en/) content ready to go, with translated search in each language.
-  - icon: 🔎
-    title: Local search
-    details: Built-in full-text search, no external service to configure.
-  - icon: 🚀
-    title: CI out of the box
-    details: Lint and build checked automatically on every pull request via edpage-hq's reusable workflows.
+      text: English edition →
+      link: /en/guide/translation
+    - theme: alt
+      text: Read the French guide
+      link: /guide/bienvenue
 ---

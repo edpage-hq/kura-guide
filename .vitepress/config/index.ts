@@ -4,8 +4,8 @@ import { defineVersionedConfig } from '@viteplus/versions'
 import { en, search as enSearch } from './locales/en'
 import { fr, search as frSearch } from './locales/fr'
 
-const base = process.env.VITE_BASE || '/docs/'
-const siteUrl = process.env.VITE_SITE_URL || 'https://docs.edpage.net'
+const base = process.env.VITE_BASE || '/kura-guide/'
+const siteUrl = process.env.VITE_SITE_URL || 'https://edpage-hq.github.io/kura-guide/'
 
 // https://vitepress.dev/reference/site-config
 export default defineVersionedConfig({
@@ -16,7 +16,7 @@ export default defineVersionedConfig({
   // archive/README.md, which document the repo, not doc pages.
   srcExclude: ['*.md', 'archive/README.md'],
 
-  title: 'Docs',
+  title: 'Guide Kura',
 
   head: [
     [
@@ -31,8 +31,8 @@ export default defineVersionedConfig({
     ['meta', { name: 'theme-color', content: '#0071BC' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'fr' }],
-    ['meta', { property: 'og:title', content: 'Docs | Documentation' }],
-    ['meta', { property: 'og:site_name', content: 'Docs' }],
+    ['meta', { property: 'og:title', content: 'Guide Kura | NextBoxx' }],
+    ['meta', { property: 'og:site_name', content: 'Guide Kura' }],
     ['meta', { property: 'og:url', content: siteUrl }],
   ],
 
@@ -41,7 +41,7 @@ export default defineVersionedConfig({
     logo: {
       light: '/images/icon.svg',
       dark: '/images/icon-reverse.svg',
-      alt: 'Docs',
+      alt: 'Guide Kura',
       width: 48,
       height: 48,
     },

@@ -3,11 +3,11 @@ import type { DefaultTheme, LocaleInterface, NavType, SidebarItemType } from '@v
 export const en: LocaleInterface = {
   lang: 'en',
   label: 'English',
-  description: 'Documentation starter.',
+  description: 'The Kura guide: the administrative and financial platform of NextBoxx.',
 
   themeConfig: {
     nav: nav(),
-    siteTitle: 'Documentation',
+    siteTitle: 'Kura Guide',
 
     sidebar: {
       '/en/guide/': { base: '/en/guide/', items: sidebarGuide() },
@@ -23,8 +23,8 @@ function nav(): NavType {
   return {
     root: [
       {
-        text: 'Read the documentation',
-        link: '/en/guide/getting-started',
+        text: 'Read the guide',
+        link: '/en/guide/translation',
         activeMatch: '/en/guide/',
       },
       {
@@ -32,13 +32,13 @@ function nav(): NavType {
         items: [
           {
             text: 'Release notes',
-            link: 'https://github.com/edpage-hq/guide-starter/releases',
+            link: 'https://github.com/edpage-hq/kura-web/releases',
             target: '_blank',
             rel: 'noopener',
           },
           {
             text: 'Report a problem',
-            link: 'https://github.com/edpage-hq/guide-starter/issues',
+            link: 'https://github.com/edpage-hq/kura-guide/issues',
             target: '_blank',
             rel: 'noopener',
           },
@@ -54,12 +54,7 @@ function sidebarGuide(): SidebarItemType[] {
     {
       text: 'Introduction',
       collapsed: false,
-      items: [{ text: 'Getting started', link: 'getting-started' }],
-    },
-    {
-      text: 'Others',
-      collapsed: false,
-      items: [{ text: 'About', link: 'about' }],
+      items: [{ text: 'English edition', link: 'translation' }],
     },
   ]
 }
