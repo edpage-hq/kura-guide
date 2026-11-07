@@ -42,3 +42,4 @@ Chaque rôle a sa section, dans le menu de gauche. Commencez par [Premiers pas](
 - **Vous postulez à une formation, ou vous suivez déjà la vôtre** : [Parcours de l'apprenant](./apprenant/candidature).
 - **Vous représentez une entreprise** (financer un apprenant, former vos équipes, recruter) : [Entreprises et financeurs](./entreprises/financeur).
 - **Vous enseignez, accompagnez ou instruisez les candidatures** : [L'équipe pédagogique](./equipe/formateur).
+- **Vous coordonnez la formation** (catalogue, cohortes, facturation, certification) : [Coordinateur pédagogique](./coordinateur/catalogue).
