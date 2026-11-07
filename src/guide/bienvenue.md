@@ -40,3 +40,4 @@ Une entrée absente de votre menu ne vous est pas ouverte : demandez le rôle co
 Chaque rôle a sa section, dans le menu de gauche. Commencez par [Premiers pas](./premiers-pas), commun à tous, puis allez à votre parcours.
 
 - **Vous postulez à une formation, ou vous suivez déjà la vôtre** : [Parcours de l'apprenant](./apprenant/candidature).
+- **Vous représentez une entreprise** (financer un apprenant, former vos équipes, recruter) : [Entreprises et financeurs](./entreprises/financeur).

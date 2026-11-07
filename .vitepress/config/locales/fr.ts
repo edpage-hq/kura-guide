@@ -103,6 +103,15 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Certificat et Canopé', link: 'apprenant/certification' },
       ],
     },
+    {
+      text: 'Entreprises et financeurs',
+      collapsed: false,
+      items: [
+        { text: 'Financer des apprenants', link: 'entreprises/financeur' },
+        { text: 'Former vos équipes sur devis', link: 'entreprises/formation-sur-devis' },
+        { text: 'Recruter des profils certifiés', link: 'entreprises/recrutement' },
+      ],
+    },
   ]
 }
 
