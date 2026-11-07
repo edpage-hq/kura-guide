@@ -1,17 +1,6 @@
 # CLAUDE.md
 
-Guidance for Claude Code when working in `edpage-hq/kura-guide`, the documentation site for Kura.
-
-## What this repo documents
-
-Kura is the administrative and financial platform of NextBoxx, edPage group's training organisation. This guide covers its purpose, architecture, roles, learner journey, business modules, billing, generated documents, integrations, development and deployment.
-
-Sources of truth:
-
-- `edpage-hq/kura-docs` — business rules (`docs/business-logic.md`), architecture, API contract and ADRs.
-- `edpage-hq/kura-web` — the Laravel application.
-
-Never invent a rule, an endpoint, a command or a deployment URL. When a fact is not in `kura-docs` or the code, leave it out or mark it as to be confirmed. Update the guide in the same pull request as the code change it describes.
+Guidance for Claude Code when working in a repo cloned from `edpage-hq/guide-starter`.
 
 ## Stack
 
@@ -52,15 +41,6 @@ For the same reason (no `srcDir`), VitePress scans the **whole repo root** for m
 Every content page must exist in **both** languages: `src/guide/foo.md` and `src/en/guide/foo.md`. Adding a page also means adding its sidebar entry in `locales/fr.ts` and `locales/en.ts` (`sidebarGuide()` functions).
 
 French is the root locale (no `/en/` prefix); English lives under `/en/`.
-
-### Content rules
-
-- **Internal links are absolute**: `/guide/<page>` in French, `/en/guide/<page>` in English. A relative link that points outside the current folder breaks in the versioned build.
-- A page and its translation must keep the **same headings and anchors** (translated anchors are fine, but links must use the anchor that exists in that language). `pnpm docs:build` fails on broken links.
-- Keep the tone factual and operational. Pages describe what the platform does and how to run it; they do not sell it.
-- French is the reference version; the English page is its translation, not a separate document.
-- Statuses, enums, routes, commands and class names are written in English in both languages, as they appear in the code.
-- Amounts are in FCFA, excluding tax, unless stated otherwise.
 
 ## Versioning
 
