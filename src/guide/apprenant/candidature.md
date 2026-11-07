@@ -52,6 +52,6 @@ Le conseiller rend sa décision, **motivée**, dans les 3 jours ouvrés qui suiv
 
 ### Postuler de nouveau après un refus
 
-Vous pouvez déposer un nouveau dossier **7 jours** après un refus. Il est rattaché à votre compte et lié au précédent, qui reste visible dans l'historique. Pour le nouveau test, les questions de votre première tentative précédente sont écartées du tirage autant que la banque le permet.
+Vous pouvez déposer un nouveau dossier **7 jours** après un refus. Il est rattaché à votre compte et lié au précédent, qui reste visible dans l'historique. Pour le nouveau test, les questions de la première tentative de votre test précédent sont écartées du tirage autant que la banque le permet.
 
 Un dossier refusé est conservé 12 mois, puis **anonymisé** : seuls le référentiel, le format, les dates, les scores et la décision subsistent, pour les statistiques. La motivation, les pièces jointes, les comptes rendus, les réponses au test et le motif sont supprimés, et le dossier est détaché de votre compte.

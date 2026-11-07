@@ -50,15 +50,13 @@ Once certified, you can make yourself visible to companies that are recruiting. 
 2. add your **CV** (PDF, 5 MB at most), required to be visible;
 3. tick **Be visible to companies**.
 
-A company first sees your first name, your certificates and your presentation. Your contact details and CV are only shared with it if it retains your profile. If you hide your profile, it leaves the pending proposals; those already retained stay shared.
+A company first sees your first name and the initial of your last name, your certificates and your presentation. Your contact details and CV are only shared with it if it retains your profile. If you hide your profile, it leaves the pending proposals; those already retained stay shared.
 
 ## If you drop out
 
-A drop-out, whether voluntary or pronounced after several non-payments, ends your enrolment. **There is never a partial certificate.**
+A drop-out, whether voluntary or recorded for non-payment after D+30, ends your enrolment. **There is never a partial certificate.**
 
 If you have validated **at least one block**, the Coordinator can issue you a **partial attestation**. It lists the validated blocks, those that were not validated or not followed, and the reason for the interruption. It comes with the transcript of competencies.
-
-If you resume later, the balance is recalculated on the remaining blocks.
 
 ## How long your documents are kept
 

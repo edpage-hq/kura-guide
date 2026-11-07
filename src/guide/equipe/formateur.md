@@ -23,7 +23,7 @@ Depuis la fiche de la cohorte, **Présence** donne, pour chaque apprenant, le ta
 
 La saisie n'est possible qu'**une fois la cohorte démarrée**, et la séance doit avoir eu lieu. Chaque apprenant en présentiel ou en hybride est **présent par défaut** : décochez ceux qui sont absents ou notez-les en retard ou absents. Un retard compte comme une présence, une absence excusée comme une absence.
 
-Vous pouvez **corriger** ou **supprimer** une séance en présentiel ; les taux se recalculent, et tout est journalisé. Quand le taux d'un apprenant dépasse 30 %, il est prévenu ainsi que l'équipe pédagogique, une seule fois. Une correction qui le ramène sous le seuil réarme l'alerte.
+Vous pouvez **corriger** ou **supprimer** une séance en présentiel ; les taux se recalculent, et tout est journalisé. Quand le taux d'un apprenant dépasse 30 %, il est prévenu ainsi que les Coordinateurs pédagogiques, une seule fois. Une correction qui le ramène sous le seuil réarme l'alerte.
 
 ## Les notes dans Sève
 

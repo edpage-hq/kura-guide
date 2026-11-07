@@ -50,7 +50,7 @@ Le nom de l'entreprise est repris dans l'évaluation du stage par le jury. Un st
 
 ## Changer de cohorte (force majeure)
 
-**Changer de cohorte (force majeure)** déplace un apprenant sur justificatif : saisissez le **motif et le justificatif** (par exemple « certificat médical du 12 mars »). Il passe à la session suivante du même programme, ses paiements sont conservés, sans nouvelle facture ni attestation partielle.
+**Changer de cohorte (force majeure)** déplace un apprenant sur justificatif : saisissez le **motif et le justificatif** (par exemple « certificat médical du 12 mars »). Il passe à la session suivante du même programme, ses paiements sont conservés (le reste dû des factures émises est annulé par un avoir, puis refacturé sur la nouvelle convention en déduisant ce qui est déjà payé) et aucune attestation partielle n'est délivrée.
 
 Après la signature, tout changement de cohorte **remplace la convention** : l'ancienne est conservée, l'inscription repasse en attente de signature, et une nouvelle convention, au même prix et au même format, est à signer. L'apprenant est prévenu.
 

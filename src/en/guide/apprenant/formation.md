@@ -21,7 +21,7 @@ To sign in to Sève, use your **NextBoxx account**: Sève relies on Kura to iden
 
 A **late arrival counts as present**; an **excused absence counts as absent**.
 
-Your absence rate is the time of missed sessions relative to the training's hours (500 h, 700 h for Web & Mobile Development, or 250 h). When it exceeds **30%**, you are notified, as is the pedagogical team, once only.
+Your absence rate is the time of missed sessions relative to the training's hours (500 h, 700 h for Web & Mobile Development, or 250 h). When it exceeds **30%**, you are notified, as are the Pedagogical Coordinators, once only: a correction bringing you back under the threshold rearms the alert.
 
 ## Grades and blocks
 
@@ -65,4 +65,4 @@ The internship is part of the training and gives rise to no employment contract.
 
 ## Your tracking documents
 
-Everything produced for you (booklet, invoices, agreements, transcript) is in **My documents**.
+Everything produced for you (booklet, invoices, agreements, transcript of competencies) is in **My documents**.

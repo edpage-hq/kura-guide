@@ -12,7 +12,7 @@ The price of the training is paid in **three instalments**, set by your agreemen
 | ---------- | ------------------ | -------------------------------------------------- |
 | Signature  | 30%                | At the start of the cohort, or at signing if later |
 | Mid-point  | 40%                | In the middle of the cohort                        |
-| Balance    | 30%                | Before the end of the cohort                       |
+| Balance    | 30%                | At the end of the cohort                           |
 
 The exact dates are in your agreement. Amounts are **excluding tax**: the invoice carries the exemption mention and the payment details.
 

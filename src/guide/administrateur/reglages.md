@@ -14,8 +14,8 @@ layout: doc
 
 ## Les factures
 
-- **Mention de TVA** : la mention d'exonération imprimée sur chaque facture (les montants sont hors taxe).
-- **Modalités de paiement** : numéros Mobile Money, RIB et autres, imprimés sur chaque facture et affichés à l'apprenant.
+- **Mention de TVA des factures** : la mention d'exonération imprimée sur chaque facture (les montants sont hors taxe).
+- **Modalités de paiement (sur les factures)** : numéros Mobile Money, RIB et autres, imprimés sur chaque facture et affichés à l'apprenant.
 - **Forfait de mise en relation** et **forfait d'accompagnement** (FCFA, par profil retenu). **Tant que ces forfaits ne sont pas fixés, la confirmation d'une mise en relation est impossible.** Voir [Recruter des profils certifiés](../entreprises/recrutement).
 
 ## Les mentions du certificat

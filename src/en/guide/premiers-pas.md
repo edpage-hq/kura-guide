@@ -57,7 +57,7 @@ An organization account can no longer apply or register for an event personally.
 - training agreements, tripartite funding agreements and internship agreements;
 - the welcome booklet;
 - invoices and credit notes;
-- certificate, partial attestation and transcript;
+- certificate, partial attestation and transcript of competencies;
 - decision letters of your candidatures.
 
 A filter by document type helps find the right one. Each document opens or downloads as a PDF.

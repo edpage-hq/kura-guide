@@ -56,7 +56,7 @@ Issuance:
 - removes the learner from their cohort's course in Sève;
 - moves their account to the **Canopé** state and enrols them in the **Canopé Journey**.
 
-If the Canopé Journey's Sève course is not yet entered, the Canopé enrolment **waits** until it is.
+If the Canopé Journey's Sève course is not yet set on the server (it is not a field in Kura), the Canopé enrolment **waits**: the failed call shows in **Administration → Sève sync**, and goes through once the technical team has set the course.
 
 ## The partial attestation
 

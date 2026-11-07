@@ -14,8 +14,8 @@ layout: doc
 
 ## Invoices
 
-- **VAT mention**: the exemption mention printed on each invoice (amounts are excluding tax).
-- **Payment details**: Mobile Money numbers, bank details and others, printed on each invoice and shown to the learner.
+- **VAT mention on invoices**: the exemption mention printed on each invoice (amounts are excluding tax).
+- **Payment details (on invoices)**: Mobile Money numbers, bank details and others, printed on each invoice and shown to the learner.
 - **Placement fee** and **support fee** (FCFA, per retained profile). **As long as these fees are not set, confirming a placement is impossible.** See [Recruiting certified profiles](../entreprises/recrutement).
 
 ## Certificate mentions

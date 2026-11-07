@@ -12,7 +12,7 @@ Le prix de la formation se règle en **trois tranches**, définies par votre con
 | ----------- | ------------ | --------------------------------------------------------------------- |
 | Signature   | 30 %         | Au démarrage de la cohorte, ou à la signature si elle est postérieure |
 | Mi-parcours | 40 %         | Au milieu de la cohorte                                               |
-| Solde       | 30 %         | Avant la fin de la cohorte                                            |
+| Solde       | 30 %         | À la fin de la cohorte                                                |
 
 Les dates exactes figurent dans votre convention. Les montants sont **hors taxe** : la facture porte la mention d'exonération et les modalités de paiement.
 
