@@ -134,6 +134,16 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Communication', link: 'coordinateur/communication' },
       ],
     },
+    {
+      text: 'Activités élargies',
+      collapsed: false,
+      items: [
+        { text: 'Les événements', link: 'activites/evenements' },
+        { text: 'Financer un événement', link: 'activites/financement-evenements' },
+        { text: "L'Éclosion", link: 'activites/eclosion' },
+        { text: 'Partenariats technologiques', link: 'activites/partenariats' },
+      ],
+    },
   ]
 }
 
