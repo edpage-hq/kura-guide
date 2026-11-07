@@ -1,8 +1,12 @@
-# guide-starter
+# kura-guide
 
 ## Description
 
-Starter repo for edpage-hq documentation sites. Provides a [VitePress](https://vitepress.dev) site with French/English content, local search, multi-version docs, a custom theme and CI already wired up — clone it to start a new docs project instead of scaffolding from scratch.
+The user guide of Kura, the administrative and financial platform of NextBoxx (edPage group). It explains, role by role, what each person does in Kura: learners, funders and companies, the pedagogical team, the Pedagogical Coordinator, extended activities, Direction and the Administrator. French is the source language; the English edition follows page by page.
+
+Published at <https://edpage-hq.github.io/kura-guide/>, redeployed on every merge to `master`.
+
+The guide speaks the language of the screen and the rules Kura actually applies. Its sources are [kura-docs](https://github.com/edpage-hq/kura-docs) (`business-logic.md` and the ADRs) and the behaviour of [kura-web](https://github.com/edpage-hq/kura-web); the labels it quotes come from kura-web's translation files (`resources/js/lib/locales/`).
 
 ## Tech stack
 
@@ -54,14 +58,13 @@ pnpm docs:build   # fails on broken links/markdown
 
 ## Environments
 
-| Env        | URL                                                         | Deployment |
-| ---------- | ----------------------------------------------------------- | ---------- |
-| Staging    | _fill in once this project's staging environment exists_    |            |
-| Production | _fill in once this project's production environment exists_ |            |
+| Env        | URL                                       | Deployment                                                   |
+| ---------- | ----------------------------------------- | ------------------------------------------------------------ |
+| Staging    | None                                      |                                                              |
+| Production | <https://edpage-hq.github.io/kura-guide/> | GitHub Actions, workflow `Deploy`, on every push to `master` |
 
 `pnpm docs:deploy` builds the site and publishes `.vitepress/build` to the `gh-pages` branch via [gh-pages](https://github.com/tschaub/gh-pages). Adjust `VITE_BASE` to match how the site is actually served (root domain vs. GitHub Pages project path) before deploying.
 
 ## Contacts
 
-- Tech lead: _fill in per project_
-- Product owner: _fill in per project_
+- edPage group, project Kura & Sève
