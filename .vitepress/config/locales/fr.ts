@@ -3,11 +3,11 @@ import type { DefaultTheme, LocaleInterface, NavType, SidebarItemType } from '@v
 export const fr: LocaleInterface = {
   lang: 'fr',
   label: 'Français',
-  description: 'Starter de documentation.',
+  description: 'Le guide de Kura, la plateforme administrative et financière de NextBoxx.',
 
   themeConfig: {
     nav: nav(),
-    siteTitle: 'Documentation',
+    siteTitle: 'Guide Kura',
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
@@ -56,8 +56,8 @@ function nav(): NavType {
   return {
     root: [
       {
-        text: 'Lire la documentation',
-        link: '/guide/getting-started',
+        text: 'Lire le guide',
+        link: '/guide/bienvenue',
         activeMatch: '/guide/',
       },
       {
@@ -65,13 +65,13 @@ function nav(): NavType {
         items: [
           {
             text: 'Notes de version',
-            link: 'https://github.com/edpage-hq/guide-starter/releases',
+            link: 'https://github.com/edpage-hq/kura-web/releases',
             target: '_blank',
             rel: 'noopener',
           },
           {
             text: 'Signaler un problème',
-            link: 'https://github.com/edpage-hq/guide-starter/issues',
+            link: 'https://github.com/edpage-hq/kura-guide/issues',
             target: '_blank',
             rel: 'noopener',
           },
@@ -87,12 +87,21 @@ function sidebarGuide(): SidebarItemType[] {
     {
       text: 'Introduction',
       collapsed: false,
-      items: [{ text: 'Pour commencer', link: 'getting-started' }],
+      items: [
+        { text: 'Bienvenue', link: 'bienvenue' },
+        { text: 'Premiers pas', link: 'premiers-pas' },
+      ],
     },
     {
-      text: 'Autres',
+      text: "Parcours de l'apprenant",
       collapsed: false,
-      items: [{ text: 'A propos', link: 'about' }],
+      items: [
+        { text: 'Candidature et admission', link: 'apprenant/candidature' },
+        { text: 'Inscription et convention', link: 'apprenant/inscription' },
+        { text: 'Paiements', link: 'apprenant/paiements' },
+        { text: 'Suivre sa formation', link: 'apprenant/formation' },
+        { text: 'Certificat et Canopé', link: 'apprenant/certification' },
+      ],
     },
   ]
 }
