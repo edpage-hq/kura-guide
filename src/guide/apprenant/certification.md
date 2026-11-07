@@ -50,15 +50,13 @@ Une fois certifié, vous pouvez vous rendre visible des entreprises qui recruten
 2. ajoutez votre **CV** (PDF, 5 Mo au plus), obligatoire pour être visible ;
 3. cochez **Être visible des entreprises**.
 
-Une entreprise voit d'abord votre prénom, vos certificats et votre présentation. Vos coordonnées et votre CV ne lui sont communiqués que si elle retient votre profil. Si vous masquez votre profil, il quitte les propositions en attente ; celles déjà retenues restent partagées.
+Une entreprise voit d'abord votre prénom et l'initiale de votre nom, vos certificats et votre présentation. Vos coordonnées et votre CV ne lui sont communiqués que si elle retient votre profil. Si vous masquez votre profil, il quitte les propositions en attente ; celles déjà retenues restent partagées.
 
 ## Si vous abandonnez
 
-Un abandon, qu'il soit volontaire ou prononcé après plusieurs impayés, met fin à votre inscription. **Il n'y a jamais de certificat partiel.**
+Un abandon, qu'il soit volontaire ou enregistré pour impayé après J+30, met fin à votre inscription. **Il n'y a jamais de certificat partiel.**
 
 Si vous avez validé **au moins un bloc**, le Coordinateur peut vous délivrer une **attestation partielle**. Elle liste les blocs validés, ceux qui ne l'ont pas été ou n'ont pas été suivis, et le motif de l'interruption. Elle s'accompagne du relevé de compétences.
-
-En cas de reprise ultérieure, le solde est recalculé sur les blocs restants.
 
 ## Combien de temps vos documents sont conservés
 

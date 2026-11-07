@@ -51,4 +51,4 @@ The moratorium is **unique** and not renegotiable. When the late payer is the **
 
 ## What is invoiced
 
-Only certain events trigger an invoice: the schedule's instalments, registration for a paid event, an accepted company quote, a confirmed placement. Any other invoice is validated by the Coordinator.
+Only certain events trigger an invoice: the schedule's instalments, registration for a paid event, an accepted company quote, a confirmed placement.

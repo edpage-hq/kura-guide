@@ -8,7 +8,7 @@ The Coach-Tutor individually accompanies a cohort's learners. Their workspace is
 
 ## Getting the role
 
-A **Canopé** account (a former certified learner) can ask for the role in **Settings → Roles**. The Pedagogical Coordinator examines the request and tells you of their decision. If they refuse it, they give you the reason and your other roles do not change. The Coordinator can also assign you the role directly.
+Any account can ask for the role in **Settings → Roles**. The Pedagogical Coordinator examines the request and tells you of their decision. If they refuse it, they give you the reason and your other roles do not change. The Coordinator can also assign you the role directly.
 
 ## Your cohorts
 

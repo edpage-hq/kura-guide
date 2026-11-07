@@ -50,7 +50,7 @@ The company name is reused in the jury's evaluation of the internship. An intern
 
 ## Changing cohort (force majeure)
 
-**Change cohort (force majeure)** moves a learner on proof: enter the **reason and proof** (for example "medical certificate of 12 March"). They move to the next session of the same program, their payments are kept, with no new invoice or partial attestation.
+**Change cohort (force majeure)** moves a learner on proof: enter the **reason and proof** (for example "medical certificate of 12 March"). They move to the next session of the same program, their payments are kept (what is still owed on the invoices already issued is cancelled by a credit note, then billed again under the new agreement, deducting what is already paid) and no partial attestation is issued.
 
 After signing, any change of cohort **replaces the agreement**: the old one is kept, the enrolment goes back to pending signature, and a new agreement, at the same price and format, is to be signed. The learner is notified.
 

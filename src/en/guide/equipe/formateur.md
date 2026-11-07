@@ -23,7 +23,7 @@ From the cohort page, **Attendance** gives, for each learner, the absence rate (
 
 Entry is only possible **once the cohort has started**, and the class must have taken place. Each in-person or hybrid learner is **present by default**: untick those who are absent, or mark them late or absent. A late arrival counts as present, an excused absence as absent.
 
-You can **correct** or **delete** an in-person class; rates are recalculated, and everything is logged. When a learner's rate exceeds 30%, they are notified, as is the pedagogical team, once only. A correction bringing it back under the threshold rearms the alert.
+You can **correct** or **delete** an in-person class; rates are recalculated, and everything is logged. When a learner's rate exceeds 30%, they are notified, as are the Pedagogical Coordinators, once only. A correction bringing it back under the threshold rearms the alert.
 
 ## Grades in Sève
 

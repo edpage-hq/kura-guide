@@ -8,7 +8,7 @@ Le Coach-Tuteur accompagne individuellement les apprenants d'une cohorte. Son es
 
 ## Obtenir le rôle
 
-Un compte **Canopé** (un ancien apprenant certifié) peut demander le rôle dans **Paramètres → Rôles**. Le Coordinateur pédagogique examine la demande et vous prévient de sa décision. S'il la refuse, il vous donne le motif et vos autres rôles ne changent pas. Le Coordinateur peut aussi vous attribuer le rôle directement.
+Tout compte peut demander le rôle dans **Paramètres → Rôles**. Le Coordinateur pédagogique examine la demande et vous prévient de sa décision. S'il la refuse, il vous donne le motif et vos autres rôles ne changent pas. Le Coordinateur peut aussi vous attribuer le rôle directement.
 
 ## Vos cohortes
 

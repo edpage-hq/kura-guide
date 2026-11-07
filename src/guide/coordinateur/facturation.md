@@ -51,4 +51,4 @@ Le moratoire est **unique** et non renégociable. Quand le payeur en retard est 
 
 ## Ce qui est facturé
 
-Seuls certains événements déclenchent une facture : les échéances de l'échéancier, l'inscription à un événement payant, un devis entreprise accepté, une mise en relation confirmée. Toute autre facture est validée par le Coordinateur.
+Seuls certains événements déclenchent une facture : les échéances de l'échéancier, l'inscription à un événement payant, un devis entreprise accepté, une mise en relation confirmée.

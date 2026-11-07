@@ -24,14 +24,14 @@ Une personne n'a qu'un seul compte NextBoxx, identifié par son adresse e-mail. 
 
 Ce que vous voyez dans le menu dépend de vos rôles. Il est rangé en six rubriques :
 
-| Rubrique       | Contenu                                                                              |
-| -------------- | ------------------------------------------------------------------------------------ |
-| Pilotage       | Tableau de bord, vue Direction, reporting                                            |
-| Formation      | Catalogue, cohortes, rentabilité, communication                                      |
-| Parcours       | Candidatures, inscriptions, demandes des entreprises, Mon inscription, Mes documents |
-| Activités      | Événements, L'Éclosion, partenariats technologiques                                  |
-| Finance        | Facturation, commissions, rémunérations                                              |
-| Administration | Demandes de rôle, utilisateurs, comptes organisation, réglages                       |
+| Rubrique       | Contenu                                                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pilotage       | Tableau de bord, vue Direction, reporting                                                                                                      |
+| Formation      | Catalogue, cohortes, rentabilité, communication                                                                                                |
+| Parcours       | Candidatures, Inscriptions, Demandes entreprises, Apprenants financés, Ma candidature, Mon inscription, Mes demandes entreprise, Mes documents |
+| Activités      | Événements, L'Éclosion, Partenariats technologiques, Comité d'investissement, Mes événements, Mes financements, Mon projet L'Éclosion          |
+| Finance        | Facturation, Commissions, Rémunérations, Partenaires marketing, Mes commissions, Ma rémunération, Mes factures                                 |
+| Administration | Demandes de rôle, Utilisateurs, Comptes organisation, Jours fériés, Synchronisation Sève, Journal d'audit, Réglages                            |
 
 Une entrée absente de votre menu ne vous est pas ouverte : demandez le rôle correspondant (voir [Premiers pas](./premiers-pas#demander-un-role)).
 

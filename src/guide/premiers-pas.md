@@ -57,7 +57,7 @@ Un compte organisation ne peut plus candidater ni s'inscrire à un événement �
 - conventions de formation, conventions tripartites de financement et conventions de stage ;
 - livret d'accueil ;
 - factures et avoirs ;
-- certificat, attestation partielle et relevé de notes ;
+- certificat, attestation partielle et relevé de compétences ;
 - lettres de décision de vos candidatures.
 
 Un filtre par type de document aide à retrouver le bon. Chaque document s'ouvre ou se télécharge en PDF.

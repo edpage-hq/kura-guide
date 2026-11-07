@@ -52,6 +52,6 @@ The advisor gives their **reasoned** decision within 3 working days of the test.
 
 ### Applying again after a refusal
 
-You can submit a new file **7 days** after a refusal. It is attached to your account and linked to the previous one, which stays visible in the history. For the new test, the questions from your first attempt of the previous candidature are left out of the draw as far as the bank allows.
+You can submit a new file **7 days** after a refusal. It is attached to your account and linked to the previous one, which stays visible in the history. For the new test, the questions from the first attempt of your previous test are left out of the draw as far as the bank allows.
 
 A refused file is kept for 12 months, then **anonymized**: only the program, format, dates, scores and decision remain, for statistics. The motivation, attachments, reports, test answers and reason are deleted, and the file is detached from your account.

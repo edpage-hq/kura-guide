@@ -24,14 +24,14 @@ A person has a single NextBoxx account, identified by their e-mail address. The 
 
 What you see in the menu depends on your roles. It is arranged in six sections:
 
-| Section        | Content                                                                |
-| -------------- | ---------------------------------------------------------------------- |
-| Overview       | Dashboard, Direction view, reporting                                   |
-| Training       | Catalogue, cohorts, profitability, communication                       |
-| Journeys       | Candidatures, enrolments, company requests, My enrolment, My documents |
-| Activities     | Events, L'Éclosion, technology partnerships                            |
-| Finance        | Billing, commissions, remunerations                                    |
-| Administration | Role requests, users, organization accounts, settings                  |
+| Section        | Content                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Overview       | Dashboard, Direction view, reporting                                                                                         |
+| Training       | Catalogue, cohorts, profitability, communication                                                                             |
+| Journeys       | Candidatures, Enrolments, Company requests, Funded learners, My candidature, My enrolment, My company requests, My documents |
+| Activities     | Events, L'Éclosion, Technology partnerships, Investment committee, My events, My funding, My L'Éclosion project              |
+| Finance        | Billing, Commissions, Remunerations, Marketing partners, My commissions, My remuneration, My invoices                        |
+| Administration | Role requests, Users, Organization accounts, Public holidays, Sève sync, Audit log, Settings                                 |
 
 An entry missing from your menu is not open to you: ask for the matching role (see [Getting started](./premiers-pas#ask-for-a-role)).
 

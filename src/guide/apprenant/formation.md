@@ -21,7 +21,7 @@ Pour vous connecter à Sève, utilisez votre **compte NextBoxx** : Sève s'appui
 
 Un **retard compte comme une présence** ; une **absence excusée compte comme une absence**.
 
-Votre taux d'absence est le temps des séances manquées rapporté au volume horaire de la formation (500 h, 700 h pour Développement Web & Mobile, ou 250 h). Quand il dépasse **30 %**, vous êtes prévenu, ainsi que l'équipe pédagogique, une seule fois.
+Votre taux d'absence est le temps des séances manquées rapporté au volume horaire de la formation (500 h, 700 h pour Développement Web & Mobile, ou 250 h). Quand il dépasse **30 %**, vous êtes prévenu, ainsi que les Coordinateurs pédagogiques, une seule fois : une correction qui vous ramène sous le seuil réarme l'alerte.
 
 ## Les notes et les blocs
 
@@ -65,4 +65,4 @@ Le stage fait partie de la formation et ne donne lieu à aucun contrat de travai
 
 ## Vos documents de suivi
 
-Tout ce qui est produit pour vous (livret, factures, conventions, relevé de notes) est dans **Mes documents**.
+Tout ce qui est produit pour vous (livret, factures, conventions, relevé de compétences) est dans **Mes documents**.

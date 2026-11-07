@@ -56,7 +56,7 @@ La délivrance :
 - retire l'apprenant du cours de sa cohorte dans Sève ;
 - fait passer son compte à l'état **Canopé** et l'inscrit au **Parcours Canopé**.
 
-Si le cours Sève du Parcours Canopé n'est pas encore renseigné, l'inscription Canopé **attend** qu'il le soit.
+Si le cours Sève du Parcours Canopé n'est pas encore paramétré sur le serveur (ce n'est pas un champ de Kura), l'inscription Canopé **attend** : l'appel en échec figure dans **Administration → Synchronisation Sève**, et part dès que l'équipe technique a renseigné le cours.
 
 ## L'attestation partielle
 
