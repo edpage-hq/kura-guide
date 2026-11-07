@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Guidance for Claude Code when working in a repo cloned from `edpage-hq/guide-starter`.
+Guidance for Claude Code when working in `edpage-hq/kura-guide`, the user guide of Kura (built from `edpage-hq/guide-starter`).
 
 ## Stack
 
@@ -22,7 +22,7 @@ Guidance for Claude Code when working in a repo cloned from `edpage-hq/guide-sta
     custom.css          # theme overrides (CSS variables)
 src/                    # current ("live") version — always the one being edited
   index.md             # French homepage (root locale)
-  guide/                # French content
+  guide/                # French content (the source language), one folder per role
   en/
     index.md            # English homepage
     guide/               # English content, mirrors src/guide/
@@ -37,6 +37,15 @@ archive/                # past versions, one folder per version, same shape as s
 `public/` lives at the **repo root**, not under `src/` — @viteplus/versions doesn't set VitePress' `srcDir`, it only rewrites page routes, so VitePress still looks for its public directory relative to the project root. Putting assets under `src/public/` silently drops them from the build (they're never copied) — this bit us once already.
 
 For the same reason (no `srcDir`), VitePress scans the **whole repo root** for markdown, not just `src/`/`archive/` — it would otherwise turn root-level `README.md`/`CLAUDE.md` into stray built pages. `versionsConfig` in `.vitepress/config/index.ts` excludes them via `srcExclude: ['*.md', 'archive/README.md']`. Any new root-level `.md` file is covered automatically (`*.md` only matches depth-0); a new doc-metadata file nested one level under `archive/` or elsewhere would need its own entry.
+
+## Writing the guide
+
+- **Audience**: the users and administrators of Kura. Organised by role (learner, companies and funders, pedagogical team, Pedagogical Coordinator, extended activities, Direction, Administrator), not by module.
+- **Source of truth**: kura-docs (`business-logic.md`, the ADRs) and what kura-web actually does. When they differ, the code wins: say what Kura does, and raise the gap. A rule that is not implemented does not go in the guide (the billing of retakes, for instance, is still open in ADR-022).
+- **French first**, then the English page. Both pages keep the **same file name** (French slug), so the language switcher lands on the equivalent page.
+- **Quote the screen**: button and menu labels are those of kura-web, read from `resources/js/lib/locales/fr/*.json` and `en/*.json`, not retranslated. The guide says « rattrapage » (not « repêchage ») because the screen does.
+- No amounts for remunerations, no commands, tokens or hosting details: the guide is not an ops runbook (that is `deploiement.md` in kura-docs).
+- After writing, check that the internal links **and their anchors** resolve: the build checks links but not `#anchors`.
 
 Every content page must exist in **both** languages: `src/guide/foo.md` and `src/en/guide/foo.md`. Adding a page also means adding its sidebar entry in `locales/fr.ts` and `locales/en.ts` (`sidebarGuide()` functions).
 
