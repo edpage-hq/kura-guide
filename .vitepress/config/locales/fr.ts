@@ -144,6 +144,20 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Partenariats technologiques', link: 'activites/partenariats' },
       ],
     },
+    {
+      text: 'Direction',
+      collapsed: false,
+      items: [{ text: 'Direction et reporting', link: 'direction/pilotage' }],
+    },
+    {
+      text: 'Administrateur',
+      collapsed: false,
+      items: [
+        { text: 'Comptes et rôles', link: 'administrateur/comptes-et-roles' },
+        { text: 'Réglages', link: 'administrateur/reglages' },
+        { text: 'Suivi et contrôle', link: 'administrateur/suivi' },
+      ],
+    },
   ]
 }
 
