@@ -112,6 +112,15 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Recruter des profils certifiés', link: 'entreprises/recrutement' },
       ],
     },
+    {
+      text: "L'équipe pédagogique",
+      collapsed: false,
+      items: [
+        { text: 'Formateur Principal', link: 'equipe/formateur' },
+        { text: 'Coach-Tuteur', link: 'equipe/coach-tuteur' },
+        { text: 'Conseiller admissions', link: 'equipe/conseiller' },
+      ],
+    },
   ]
 }
 
