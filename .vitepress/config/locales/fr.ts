@@ -121,6 +121,19 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Conseiller admissions', link: 'equipe/conseiller' },
       ],
     },
+    {
+      text: 'Coordinateur pédagogique',
+      collapsed: false,
+      items: [
+        { text: 'Catalogue et banques QCM', link: 'coordinateur/catalogue' },
+        { text: 'Les cohortes', link: 'coordinateur/cohortes' },
+        { text: 'Inscriptions et conventions', link: 'coordinateur/inscriptions' },
+        { text: 'Facturation', link: 'coordinateur/facturation' },
+        { text: 'Résultats et certification', link: 'coordinateur/resultats' },
+        { text: 'Rémunérations et commissions', link: 'coordinateur/remunerations' },
+        { text: 'Communication', link: 'coordinateur/communication' },
+      ],
+    },
   ]
 }
 
