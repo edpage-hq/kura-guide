@@ -4,7 +4,7 @@ layout: doc
 
 # Partenariats technologiques
 
-Un partenariat technologique intègre l'outil, la plateforme ou la certification d'une organisation dans un ou plusieurs programmes. Il est **gratuit**, en échange d'une **visibilité** auprès des apprenants. Il ne faut pas le confondre avec un **partenaire marketing**, qui est payé sur facture.
+Un partenariat technologique intègre l'outil, la plateforme ou la certification d'une organisation dans un ou plusieurs programmes. Il est **gratuit**, en échange d'une **visibilité** auprès des apprenants.
 
 Le **Chargé de partenariats** et l'Administrateur les gèrent, dans **Activités → Partenariats technologiques**.
 

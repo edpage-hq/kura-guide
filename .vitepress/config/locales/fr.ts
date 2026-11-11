@@ -130,7 +130,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Inscriptions et conventions', link: 'coordinateur/inscriptions' },
         { text: 'Facturation', link: 'coordinateur/facturation' },
         { text: 'Résultats et certification', link: 'coordinateur/resultats' },
-        { text: 'Rémunérations et commissions', link: 'coordinateur/remunerations' },
+        { text: 'Rémunérations', link: 'coordinateur/remunerations' },
         { text: 'Communication', link: 'coordinateur/communication' },
       ],
     },

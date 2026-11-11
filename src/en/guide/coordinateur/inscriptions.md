@@ -16,9 +16,9 @@ Every non-dropped enrolment **takes a seat**. Headcount and profitability zone o
 
 Before signing, **Funding** lets you designate a **funder** (an organization account with the Funder role) and their share, from 1 to 100%. "None" leaves the learner paying everything. The split appears in the agreement. See [Funding learners](../entreprises/financeur).
 
-## The business referrer
+## The network code
 
-**Business referrer** links the enrolment to the account that brought it, if any. The code (`AP-XXXXXX`) is normally entered by the candidate; you can correct it **until the first payment**. The referrer earns 5% of each payment (see [Remunerations and commissions](./remunerations)).
+If the candidate entered a **network code** (`ED-`, `EDA-` or `EDI-`), it appears on their line ("Network code: …"). Kura checked it with Naia and keeps it as is; it is not corrected in Kura. The commercial network and its commissions are managed in Naia.
 
 ## The agreement text
 

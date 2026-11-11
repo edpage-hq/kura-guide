@@ -30,7 +30,7 @@ Ce que vous voyez dans le menu dépend de vos rôles. Il est rangé en six rubri
 | Formation      | Catalogue, cohortes, rentabilité, communication                                                                                                |
 | Parcours       | Candidatures, Inscriptions, Demandes entreprises, Apprenants financés, Ma candidature, Mon inscription, Mes demandes entreprise, Mes documents |
 | Activités      | Événements, L'Éclosion, Partenariats technologiques, Comité d'investissement, Mes événements, Mes financements, Mon projet L'Éclosion          |
-| Finance        | Facturation, Commissions, Rémunérations, Partenaires marketing, Mes commissions, Ma rémunération, Mes factures                                 |
+| Finance        | Facturation, Rémunérations, Ma rémunération, Mes factures                                                                                      |
 | Administration | Demandes de rôle, Utilisateurs, Comptes organisation, Jours fériés, Synchronisation Sève, Journal d'audit, Réglages                            |
 
 Une entrée absente de votre menu ne vous est pas ouverte : demandez le rôle correspondant (voir [Premiers pas](./premiers-pas#demander-un-role)).

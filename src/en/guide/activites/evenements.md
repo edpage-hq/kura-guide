@@ -47,7 +47,7 @@ The Events Officer and the Administrator manage **Activities → Events**. The l
 
 ### Following the registrants
 
-An event's page shows places taken, the waiting list, the payment deadline, and each registrant with their status, sign-up date and **invoice** (with the balance due). The Officer consults invoices; **the Coordinator records payments** (see [Billing](../coordinateur/facturation)). Event invoices enter neither the billing calendar, nor follow-ups, nor commissions, nor the Direction and Reporting dashboards.
+An event's page shows places taken, the waiting list, the payment deadline, and each registrant with their status, sign-up date and **invoice** (with the balance due). The Officer consults invoices; **the Coordinator records payments** (see [Billing](../coordinateur/facturation)). Event invoices enter neither the billing calendar, nor follow-ups, nor the Direction and Reporting dashboards.
 
 ### Cancelling an event
 
