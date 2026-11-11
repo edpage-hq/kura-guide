@@ -2,9 +2,9 @@
 layout: doc
 ---
 
-# Remunerations and commissions
+# Remunerations
 
-Sums due to trainers, coaches, jury members, business referrers and marketing partners are prepared in **Finance**. Kura calculates or records, **you validate**, then you **record the payment made outside Kura**: Kura executes no transfer.
+Sums due to trainers, coaches, jury members are prepared in **Finance**. Kura calculates or records, **you validate**, then you **record the payment made outside Kura**: Kura executes no transfer.
 
 ## Trainers, coaches and jury
 
@@ -36,23 +36,4 @@ If a rate was missing at the close, the cohort appears under **Completed cohorts
 
 Each payee follows their lines in **My remuneration**.
 
-## Business referrer commissions
-
-**Finance → Commissions** tracks business referrers. The referrer earns **5% of each payment** of the enrolment they brought, funder's share included: nothing on a mere candidature, nothing on an instalment never paid. A refund takes the commission back through a negative line.
-
-1. Search for the referrer, a code or a learner, and filter by status (**Calculated**, **Validated**, **Paid**).
-2. **Validate the selection** for calculated lines.
-3. **Record the payout** to a referrer, with the date: the validated lines are settled.
-
-The referrer sees their code, their referred enrolments and their commissions in **My commissions**.
-
-## Marketing partners
-
-**Finance → Marketing partners** tracks partners whose remuneration is made **on invoice submission**, never by number of enrolments.
-
-- The **Partnerships Officer** records each partner's **contracts** and **campaign fees** (type, title, amount, period).
-- The partner **submits their invoices** (number, amount, date, PDF of 5 MB at most), within the amount of each contract.
-- You **validate** the invoice, or **reject** it with a reason: the reason is passed to the partner, who can submit a corrected invoice, and the amount and number are freed.
-- After the payment made outside Kura, **Record the payment** with its date.
-
-The partner's tracking code (`MK-XXXXXX`) is given when the role is assigned, for information.
+Commissions for business referrers and marketing partners are no longer managed in Kura: they are tracked in Naia.

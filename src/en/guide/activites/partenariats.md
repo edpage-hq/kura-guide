@@ -4,7 +4,7 @@ layout: doc
 
 # Technology partnerships
 
-A technology partnership integrates an organization's tool, platform or certification into one or more programs. It is **free**, in exchange for **visibility** to learners. It must not be confused with a **marketing partner**, who is paid on invoice.
+A technology partnership integrates an organization's tool, platform or certification into one or more programs. It is **free**, in exchange for **visibility** to learners.
 
 The **Partnerships Officer** and the Administrator manage them, in **Activities → Technology partnerships**.
 

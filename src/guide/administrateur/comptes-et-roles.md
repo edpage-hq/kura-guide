@@ -14,7 +14,7 @@ L'Administrateur a accès à toute l'application. Sa rubrique **Administration**
 | ------------------------------------------------------- | --------------------------------------------- |
 | Formateur Principal, Coach-Tuteur                       | Coordinateur pédagogique                      |
 | Conseiller admissions, Chargés, Direction, Coordinateur | Administrateur                                |
-| Apporteur d'affaires, Partenaire marketing, Financeur   | Chargé de partenariats                        |
+| Financeur                                               | Chargé de partenariats                        |
 | Financeur d'événement                                   | Chargé d'événements                           |
 | Porteur de projet                                       | Chargé d'incubation, à la rétention du projet |
 

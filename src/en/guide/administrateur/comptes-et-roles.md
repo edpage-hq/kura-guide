@@ -14,7 +14,7 @@ The Administrator has access to the whole application. Their **Administration** 
 | ---------------------------------------------------- | ------------------------------------------------ |
 | Lead Trainer, Coach-Tutor                            | Pedagogical Coordinator                          |
 | Admissions Advisor, Officers, Direction, Coordinator | Administrator                                    |
-| Business referrer, Marketing partner, Funder         | Partnerships Officer                             |
+| Funder                                               | Partnerships Officer                             |
 | Event funder                                         | Events Officer                                   |
 | Project holder                                       | Incubation Officer, when the project is retained |
 

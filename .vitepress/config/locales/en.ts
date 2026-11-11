@@ -97,7 +97,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Enrolments and agreements', link: 'coordinateur/inscriptions' },
         { text: 'Billing', link: 'coordinateur/facturation' },
         { text: 'Results and certification', link: 'coordinateur/resultats' },
-        { text: 'Remunerations and commissions', link: 'coordinateur/remunerations' },
+        { text: 'Remunerations', link: 'coordinateur/remunerations' },
         { text: 'Communication', link: 'coordinateur/communication' },
       ],
     },

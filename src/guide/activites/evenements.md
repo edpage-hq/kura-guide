@@ -47,7 +47,7 @@ Le Chargé d'événements et l'Administrateur gèrent **Activités → Événeme
 
 ### Suivre les inscrits
 
-La fiche d'un événement montre les places prises, la liste d'attente, la date limite de paiement, et chaque inscrit avec son statut, sa date d'inscription et sa **facture** (avec le reste dû). Le Chargé consulte les factures ; **le Coordinateur enregistre les paiements** (voir [Facturation](../coordinateur/facturation)). Les factures d'événement n'entrent ni dans le calendrier de facturation, ni dans les relances, ni dans les commissions, ni dans les tableaux de bord Direction et Reporting.
+La fiche d'un événement montre les places prises, la liste d'attente, la date limite de paiement, et chaque inscrit avec son statut, sa date d'inscription et sa **facture** (avec le reste dû). Le Chargé consulte les factures ; **le Coordinateur enregistre les paiements** (voir [Facturation](../coordinateur/facturation)). Les factures d'événement n'entrent ni dans le calendrier de facturation, ni dans les relances, ni dans les tableaux de bord Direction et Reporting.
 
 ### Annuler un événement
 

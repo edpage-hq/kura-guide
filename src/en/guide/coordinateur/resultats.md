@@ -30,7 +30,7 @@ Enter the **jury president** with the decisions: they sign the certificate, and 
 
 ### The jury members
 
-Under **Jury members**, add for each **defence date** the members present: name and e-mail address, with no Kura account. Each receives a **token**, due once the defences are held. See [Remunerations and commissions](./remunerations).
+Under **Jury members**, add for each **defence date** the members present: name and e-mail address, with no Kura account. Each receives a **token**, due once the defences are held. See [Remunerations](./remunerations).
 
 ## The defence report
 

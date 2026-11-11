@@ -16,9 +16,9 @@ Toute inscription non abandonnée **occupe une place**. L'effectif et la zone de
 
 Avant la signature, **Financement** permet de désigner un **financeur** (un compte organisation au rôle Financeur) et sa part, de 1 à 100 %. « Aucun » laisse l'apprenant payer l'intégralité. La répartition figure sur la convention. Voir [Financer des apprenants](../entreprises/financeur).
 
-## L'apporteur d'affaires
+## Le code réseau
 
-**Apporteur d'affaires** associe l'inscription au compte qui l'a apportée, s'il y en a un. Le code (`AP-XXXXXX`) est normalement saisi par le candidat ; vous pouvez le corriger **jusqu'au premier paiement**. L'apporteur touche 5 % de chaque encaissement (voir [Rémunérations et commissions](./remunerations)).
+Si le candidat a saisi un **code réseau** (`ED-`, `EDA-` ou `EDI-`), il figure sur sa ligne (« Code réseau : … »). Kura l'a vérifié auprès de Naia et le conserve tel quel ; il ne se corrige pas dans Kura. Le réseau commercial et ses commissions se gèrent dans Naia.
 
 ## Le texte de la convention
 

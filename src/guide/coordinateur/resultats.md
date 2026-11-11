@@ -30,7 +30,7 @@ Indiquez le **président du jury** avec les décisions : c'est lui qui signe le 
 
 ### Les membres du jury
 
-Dans **Membres du jury**, ajoutez pour chaque **date de soutenance** les jurés présents : nom et adresse e-mail, sans compte Kura. Chacun reçoit un **jeton**, dû une fois les soutenances tenues. Voir [Rémunérations et commissions](./remunerations).
+Dans **Membres du jury**, ajoutez pour chaque **date de soutenance** les jurés présents : nom et adresse e-mail, sans compte Kura. Chacun reçoit un **jeton**, dû une fois les soutenances tenues. Voir [Rémunérations](./remunerations).
 
 ## Le procès-verbal de soutenance
 
