@@ -27,13 +27,13 @@ Les deux pages portent sur les **cohortes qui démarrent dans l'année choisie**
 
 **Finance :**
 
-| Indicateur        | Définition                                                                                                                                                        |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Facturé           | Net des avoirs d'annulation                                                                                                                                       |
-| Encaissé          | Net des remboursements                                                                                                                                            |
-| Reste à encaisser | Dont le montant en retard                                                                                                                                         |
+| Indicateur        | Définition                                    |
+| ----------------- | --------------------------------------------- |
+| Facturé           | Net des avoirs d'annulation                   |
+| Encaissé          | Net des remboursements                        |
+| Reste à encaisser | Dont le montant en retard                     |
 | Versé             | Rémunérations des formateurs, coachs et jurys |
-| Marge brute       | Encaissé moins versé                                                                                                                                              |
+| Marge brute       | Encaissé moins versé                          |
 
 Un détail **par programme** et **par promotion** accompagne ces chiffres.
 

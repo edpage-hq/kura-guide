@@ -27,13 +27,13 @@ Both pages cover **cohorts that start in the chosen year** (the current year by 
 
 **Finance:**
 
-| Indicator        | Definition                                                                                                                                 |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Invoiced         | Net of cancellation credit notes                                                                                                           |
-| Collected        | Net of refunds                                                                                                                             |
-| Still to collect | Including the overdue amount                                                                                                               |
+| Indicator        | Definition                                |
+| ---------------- | ----------------------------------------- |
+| Invoiced         | Net of cancellation credit notes          |
+| Collected        | Net of refunds                            |
+| Still to collect | Including the overdue amount              |
 | Paid out         | Trainers', coaches' and jury members' pay |
-| Gross margin     | Collected minus paid out                                                                                                                   |
+| Gross margin     | Collected minus paid out                  |
 
 A detail **by program** and **by promotion** accompanies these figures.
 
